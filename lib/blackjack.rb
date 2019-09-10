@@ -1,5 +1,5 @@
 def welcome
-  welcome = print "Welcome to the Blackjack Table"
+  welcome = puts "Welcome to the Blackjack Table"
   
   welcome
 end
@@ -8,7 +8,7 @@ def deal_card
   # code #deal_card here
 end
 
-def display_card_total
+def display_card_total(card_total)
   # code #display_card_total here
 end
 
