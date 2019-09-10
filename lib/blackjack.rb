@@ -1,5 +1,5 @@
 def welcome
-  welcome = puts "Welcome to the Blackjack Table"
+  welcome = print "Welcome to the Blackjack Table"
   
   welcome
 end
